@@ -1,0 +1,9 @@
+{
+  "oracle": {
+    "enabled": false,
+    "dsn": "host:porta/servico",
+    "user": "USUARIO",
+    "password": "SENHA",
+    "table": "OPERACOES_COLHEITA"
+  }
+}

@@ -1,0 +1,3 @@
+# Dependências mínimas
+# Remova ou comente 'cx_Oracle' se não usar Oracle
+cx_Oracle>=8.3

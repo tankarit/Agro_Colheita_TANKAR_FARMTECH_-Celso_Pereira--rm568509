@@ -1,0 +1,13 @@
+Relatório de Perdas – Exemplo
+=============================
+Período: (exemplo) 2025-10-01 a 2025-10-15
+
+Top 3 talhões com maiores perdas (%):
+1) TALHAO-12  13.5%
+2) TALHAO-05  12.1%
+3) TALHAO-07  11.8%
+
+Sugestões gerais:
+- Ajustar velocidade da colhedora em talhões com cana acamada.
+- Revisar altura de corte e calibragem de facas.
+- Planejar colheita nas horas mais frescas do dia para reduzir perdas mecânicas.
